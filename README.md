@@ -1,4 +1,4 @@
-# ENV IV Sensor - M5Stack Core2 環境センサー表示システム
+# ENV IV Sensor - M5Stack Core2 環境センサー表示
 
 ## 概要
 
@@ -246,6 +246,11 @@ canvas.setTextColor(GREEN);     // 好みの色に変更
 // 使用可能な色: RED, GREEN, BLUE, WHITE, BLACK, 
 //              CYAN, YELLOW, ORANGE, etc.
 ```
+
+## 今後の予定
+restapi経由でセンサーから取得した値をサーバーへ送信
+取得したデータを可視化
+
 
 ## ライセンス
 
