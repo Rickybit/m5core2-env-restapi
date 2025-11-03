@@ -249,7 +249,7 @@ canvas.setTextColor(GREEN);     // 好みの色に変更
 
 ## ライセンス
 
-このコードはM5Stack公式ライブラリを使用しています。
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 参考リンク
 
